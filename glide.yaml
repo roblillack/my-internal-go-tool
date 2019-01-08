@@ -1,0 +1,5 @@
+package: github.com/roblillack/my-internal-go-tool
+
+import:
+  - package: projectx
+    repo: git@github.com:roblillack/my-internal-go-library.git

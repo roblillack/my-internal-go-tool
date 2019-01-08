@@ -1,0 +1,7 @@
+hash: 537d36e87257ddbd158aff114494b61d80175ff9ca0ffb872a312e009ac76755
+updated: 2019-01-08T18:38:59.533552+01:00
+imports:
+- name: projectx
+  version: e2cf823506ac75c09972462f36e747f437d1585a
+  repo: git@github.com:roblillack/my-internal-go-library.git
+testImports: []
